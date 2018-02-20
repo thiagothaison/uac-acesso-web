@@ -168,6 +168,7 @@ return [
          * Package Service Providers...
          */
 
+        AcessoWeb\Providers\AcessoWebProvider::class,
         AcessoWeb\Libraries\HashServiceProvider::class,
 
         /*
