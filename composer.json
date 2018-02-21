@@ -16,10 +16,7 @@
     "autoload": {
         "psr-0": {
             "AcessoWeb": "src/"
-        },
-        "files": [
-            "src/helpers.php"
-        ]
+        }
     },
     "minimum-stability": "dev",
 	"prefer-stable": true
